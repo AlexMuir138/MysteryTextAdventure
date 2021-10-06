@@ -1,0 +1,15 @@
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/bin/Debug/net5.0/MysteryTextAdventure.deps.json
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/bin/Debug/net5.0/MysteryTextAdventure.runtimeconfig.json
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/bin/Debug/net5.0/MysteryTextAdventure.runtimeconfig.dev.json
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/bin/Debug/net5.0/MysteryTextAdventure.dll
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/bin/Debug/net5.0/ref/MysteryTextAdventure.dll
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/bin/Debug/net5.0/MysteryTextAdventure.pdb
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/obj/Debug/net5.0/MysteryTextAdventure.csproj.AssemblyReference.cache
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/obj/Debug/net5.0/MysteryTextAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/obj/Debug/net5.0/MysteryTextAdventure.AssemblyInfoInputs.cache
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/obj/Debug/net5.0/MysteryTextAdventure.AssemblyInfo.cs
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/obj/Debug/net5.0/MysteryTextAdventure.csproj.CoreCompileInputs.cache
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/obj/Debug/net5.0/MysteryTextAdventure.dll
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/obj/Debug/net5.0/ref/MysteryTextAdventure.dll
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/obj/Debug/net5.0/MysteryTextAdventure.pdb
+/Users/alexmuir/source/codeacademy/MysteryTextAdventure/obj/Debug/net5.0/MysteryTextAdventure.genruntimeconfig.cache
