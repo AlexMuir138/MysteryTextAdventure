@@ -24,18 +24,6 @@ namespace MysteryTextAdventure
       Console.WriteLine("Type OPEN or KNOCK:");
       string doorChoice = Console.ReadLine();
       string loudDoor = doorChoice.ToUpper();
-      if(loudDoor == "KNOCK"){
-        Console.WriteLine("A voice behind the door speaks. It says, \"Answer this riddle: ");
-        Console.WriteLine("Poor people have. Rich people need it. If you eat it you die. What is it?");
-        Console.WriteLine("Type your answer: ");
-        string riddleAnswer = Console.ReadLine();
-        string loudAnswer = riddleAnswer.ToUpper();
-        if(loudAnswer == "NOTHING"){
-          Console.WriteLine("The door opens and NOTHING is there. You turn off the light and run back to your room and lock the door. THE END.")else {
-            Console.WriteLine("You answered incorrectly. The door does not open.   THE END.");
-      } else if(loudDoor == "OPEN"){
-        Console.WriteLine("derp");
-      }
         }
     }
 }
