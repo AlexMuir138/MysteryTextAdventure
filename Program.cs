@@ -31,7 +31,8 @@ namespace MysteryTextAdventure
         string riddleAnswer = Console.ReadLine();
         string loudAnswer = riddleAnswer.ToUpper();
         if(loudAnswer == "NOTHING"){
-          Console.WriteLine("The door opens and NOTHING is there. You turn off the light and run back to your room and lock the door. THE END.");
+          Console.WriteLine("The door opens and NOTHING is there. You turn off the light and run back to your room and lock the door. THE END.")else {
+            Console.WriteLine("You answered incorrectly. The door does not open.   THE END.");
       } else if(loudDoor == "OPEN"){
         Console.WriteLine("derp");
       }
